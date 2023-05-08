@@ -15,4 +15,4 @@ while counter_mistakes != 3:
         print("Ответ неверный")
         counter_mistakes += 1
 
-print("Игра окончена. Правильных ответов: " + str(counter_mistakes))
+print("Игра окончена. Правильных ответов: " + str(counter))
