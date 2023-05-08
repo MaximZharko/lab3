@@ -1,7 +1,7 @@
-n = int(input("Введите число слов"))
+n = int(input("Введите число слов "))
 word = ""
 
 for i in range(n):
-    word += input()
+    word += input() + " "
 
 print(word)
